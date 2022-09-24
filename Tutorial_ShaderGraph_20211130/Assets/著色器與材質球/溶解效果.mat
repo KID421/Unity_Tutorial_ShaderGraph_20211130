@@ -36,7 +36,7 @@ Material:
     - Vector1_0ff7986b6fec4f629b6b4bf40b5d9ad8: 30
     - Vector1_54617a2018a6444b89f78129868f802e: 1.5
     - Vector1_8e7770cdf8e54ee9845684d1277f54d2: 1
-    - dissolve: 1.6999999
+    - dissolve: 1.57
     - dissolveLength: 1
     m_Colors:
     - Color_6fbe94bb404f48cfb0e052125b1759a3: {r: 0, g: 0, b: 0, a: 1}
